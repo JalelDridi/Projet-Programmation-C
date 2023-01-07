@@ -1,0 +1,6 @@
+RA Romdhani Ahmed 153123 Homme 30/4/2020 123456 3 0 Administrateur
+BH BenAbdallah Houssein 173123 Homme 30/4/2020 123456 3 1 Observateur
+TR Taieb Rihem 5642 Femme 10/1/2022 123456 11 963 Electeur
+BI BenHmida Isra 15651 Femme 4/1/2023 123456 97 -1 Administrateur
+AM Amri Malek 15651 Femme 19/1/2023 123456 97 -1 Agent_du_BV
+JD Dridi Jalel 15651 Homme 5/1/2023 123456 93 -1 Administrateur

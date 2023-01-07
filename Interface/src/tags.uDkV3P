@@ -1,0 +1,762 @@
+U1	callbacks.c	/^Utilisateur U1;$/;"	v
+U2	callbacks.c	/^Utilisateur U2;$/;"	v
+nh	callbacks.c	/^int nh;$/;"	v
+nf	callbacks.c	/^int nf;$/;"	v
+nb	callbacks.c	/^int nb;$/;"	v
+BIAJ	callbacks.c	/^int BIAJ;$/;"	v
+BIMOD	callbacks.c	/^int BIMOD;$/;"	v
+BIYN	callbacks.c	/^int BIYN;$/;"	v
+role2	callbacks.c	/^char role2[100];$/;"	v
+sexe	callbacks.c	/^char sexe[100];$/;"	v
+jr	callbacks.c	/^guint jr;$/;"	v
+mr	callbacks.c	/^guint mr;$/;"	v
+ar	callbacks.c	/^guint ar;$/;"	v
+j1	callbacks.c	/^guint j1;$/;"	v
+m1	callbacks.c	/^guint m1;$/;"	v
+a1	callbacks.c	/^guint a1;$/;"	v
+B1	callbacks.c	/^BV B1;$/;"	v
+JDAJ	callbacks.c	/^int JDAJ;$/;"	v
+JDMOD	callbacks.c	/^int JDMOD;$/;"	v
+JDYN	callbacks.c	/^int JDYN;$/;"	v
+JDAR	callbacks.c	/^int JDAR;$/;"	v
+JDMR	callbacks.c	/^int JDMR;$/;"	v
+E1	callbacks.c	/^Election E1;$/;"	v
+RAAJ	callbacks.c	/^int RAAJ;$/;"	v
+RAMOD	callbacks.c	/^int RAMOD;$/;"	v
+RAYN	callbacks.c	/^int RAYN;$/;"	v
+R1	callbacks.c	/^Reclamation R1;$/;"	v
+BHAJ	callbacks.c	/^int BHAJ;$/;"	v
+BHMOD	callbacks.c	/^int BHMOD;$/;"	v
+BHYN	callbacks.c	/^int BHYN;$/;"	v
+RLog	callbacks.c	/^int RLog;$/;"	v
+Vrob	callbacks.c	/^int Vrob;$/;"	v
+L1	callbacks.c	/^listelectoral L1;$/;"	v
+TRAJ	callbacks.c	/^int TRAJ;$/;"	v
+TRMOD	callbacks.c	/^int TRMOD;$/;"	v
+TRYN	callbacks.c	/^int TRYN;$/;"	v
+TRDA	callbacks.c	/^int TRDA = 0;$/;"	v
+TRDM	callbacks.c	/^int TRDM = 0;$/;"	v
+TRGA	callbacks.c	/^int TRGA = 0;$/;"	v
+TRGM	callbacks.c	/^int TRGM = 0;$/;"	v
+on_treeview1_row_activated	callbacks.c	/^void on_treeview1_row_activated(GtkTreeView *treeview,$/;"	f
+on_BIrechercher_clicked	callbacks.c	/^void on_BIrechercher_clicked(GtkWidget *button,$/;"	f
+on_BIquit_clicked	callbacks.c	/^void on_BIquit_clicked(GtkWidget *button,$/;"	f
+on_BIactualiser_clicked	callbacks.c	/^void on_BIactualiser_clicked(GtkWidget *button,$/;"	f
+on_BIsupprimer_clicked	callbacks.c	/^void on_BIsupprimer_clicked(GtkWidget *button,$/;"	f
+on_BImodifier_clicked	callbacks.c	/^void on_BImodifier_clicked(GtkWidget *button,$/;"	f
+on_BIStat_clicked	callbacks.c	/^void on_BIStat_clicked(GtkWidget *button,$/;"	f
+on_BIreturn_clicked	callbacks.c	/^void on_BIreturn_clicked(GtkWidget *button,$/;"	f
+on_BIcalendarA_day_selected	callbacks.c	/^void on_BIcalendarA_day_selected(GtkCalendar *calendar,$/;"	f
+on_BIrobotA_toggled	callbacks.c	/^void on_BIrobotA_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_BIconfirmerA_clicked	callbacks.c	/^void on_BIconfirmerA_clicked(GtkWidget *button,$/;"	f
+on_BIcalendarM_day_selected	callbacks.c	/^void on_BIcalendarM_day_selected(GtkCalendar *calendar,$/;"	f
+on_BIrobotM_toggled	callbacks.c	/^void on_BIrobotM_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_BIconfirmerM_clicked	callbacks.c	/^void on_BIconfirmerM_clicked(GtkWidget *button,$/;"	f
+on_BIradiobuttonN_toggled	callbacks.c	/^void on_BIradiobuttonN_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_BIradiobuttonY_toggled	callbacks.c	/^void on_BIradiobuttonY_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_BIokbutton_clicked	callbacks.c	/^void on_BIokbutton_clicked(GtkWidget *button,$/;"	f
+on_treeview2_row_activated	callbacks.c	/^void on_treeview2_row_activated(GtkTreeView *treeview,$/;"	f
+on_JDreturn_clicked	callbacks.c	/^void on_JDreturn_clicked(GtkWidget *button,$/;"	f
+on_JDstat_clicked	callbacks.c	/^void on_JDstat_clicked(GtkWidget *button,$/;"	f
+on_JDmodifier_clicked	callbacks.c	/^void on_JDmodifier_clicked(GtkWidget *button,$/;"	f
+on_JDsupprimer_clicked	callbacks.c	/^void on_JDsupprimer_clicked(GtkWidget *button,$/;"	f
+on_JDactualiser_clicked	callbacks.c	/^void on_JDactualiser_clicked(GtkWidget *button,$/;"	f
+on_JDrechercher_clicked	callbacks.c	/^void on_JDrechercher_clicked(GtkWidget *button,$/;"	f
+on_JDcheckbuttonA_toggled	callbacks.c	/^void on_JDcheckbuttonA_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_JDconfirmerA_clicked	callbacks.c	/^void on_JDconfirmerA_clicked(GtkWidget *button,$/;"	f
+on_JDradiobuttonNA_toggled	callbacks.c	/^void on_JDradiobuttonNA_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_JDradiobuttonYA_toggled	callbacks.c	/^void on_JDradiobuttonYA_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_JDradiobuttonYM_toggled	callbacks.c	/^void on_JDradiobuttonYM_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_JDradiobuttonNM_toggled	callbacks.c	/^void on_JDradiobuttonNM_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_JDcheckbuttonM_toggled	callbacks.c	/^void on_JDcheckbuttonM_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_JDconfirmerM_clicked	callbacks.c	/^void on_JDconfirmerM_clicked(GtkWidget *button,$/;"	f
+on_JDquit_clicked	callbacks.c	/^void on_JDquit_clicked(GtkWidget *button,$/;"	f
+on_JDradiobuttonN_toggled	callbacks.c	/^void on_JDradiobuttonN_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_JDradiobuttonY_toggled	callbacks.c	/^void on_JDradiobuttonY_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_JDokbutton_clicked	callbacks.c	/^void on_JDokbutton_clicked(GtkWidget *button,$/;"	f
+on_treeview4_row_activated	callbacks.c	/^void on_treeview4_row_activated(GtkTreeView *treeview,$/;"	f
+on_RAcalendarA_day_selected	callbacks.c	/^void on_RAcalendarA_day_selected(GtkCalendar *calendar,$/;"	f
+on_RAcalendarM_day_selected	callbacks.c	/^void on_RAcalendarM_day_selected(GtkCalendar *calendar,$/;"	f
+on_RAconfirmerM_clicked	callbacks.c	/^void on_RAconfirmerM_clicked(GtkWidget *button,$/;"	f
+on_RAconfirmerA_clicked	callbacks.c	/^void on_RAconfirmerA_clicked(GtkWidget *button,$/;"	f
+on_RArechercher_clicked	callbacks.c	/^void on_RArechercher_clicked(GtkWidget *button,$/;"	f
+on_RAsupprimer_clicked	callbacks.c	/^void on_RAsupprimer_clicked(GtkWidget *button,$/;"	f
+on_RAactualiser_clicked	callbacks.c	/^void on_RAactualiser_clicked(GtkWidget *button,$/;"	f
+on_RAmodifier_clicked	callbacks.c	/^void on_RAmodifier_clicked(GtkWidget *button,$/;"	f
+on_RAstat_clicked	callbacks.c	/^void on_RAstat_clicked(GtkWidget *button,$/;"	f
+on_RAquit_clicked	callbacks.c	/^void on_RAquit_clicked(GtkWidget *button,$/;"	f
+on_RAreturn_clicked	callbacks.c	/^void on_RAreturn_clicked(GtkWidget *button,$/;"	f
+on_RAradiobuttonY_toggled	callbacks.c	/^void on_RAradiobuttonY_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_RAradiobuttonN_toggled	callbacks.c	/^void on_RAradiobuttonN_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_RAokbutton_clicked	callbacks.c	/^void on_RAokbutton_clicked(GtkWidget *button,$/;"	f
+on_RArobotA_toggled	callbacks.c	/^void on_RArobotA_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_RArobotM_toggled	callbacks.c	/^void on_RArobotM_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_treeview5_row_activated	callbacks.c	/^void on_treeview5_row_activated(GtkTreeView *treeview,$/;"	f
+on_TRcheckbuttonDA_toggled	callbacks.c	/^void on_TRcheckbuttonDA_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_TRcheckbuttonGA_toggled	callbacks.c	/^void on_TRcheckbuttonGA_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_TRrobotA_toggled	callbacks.c	/^void on_TRrobotA_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_TRconfirmerA_clicked	callbacks.c	/^void on_TRconfirmerA_clicked(GtkWidget *button,$/;"	f
+on_TRcheckbuttonGM_toggled	callbacks.c	/^void on_TRcheckbuttonGM_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_TRcheckbuttonDM_toggled	callbacks.c	/^void on_TRcheckbuttonDM_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_TRconfirmerM_clicked	callbacks.c	/^void on_TRconfirmerM_clicked(GtkWidget *button,$/;"	f
+on_TRrobotM_toggled	callbacks.c	/^void on_TRrobotM_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_TRreturn_clicked	callbacks.c	/^void on_TRreturn_clicked(GtkWidget *button,$/;"	f
+on_TRstat_clicked	callbacks.c	/^void on_TRstat_clicked(GtkWidget *button,$/;"	f
+on_TRmodifier_clicked	callbacks.c	/^void on_TRmodifier_clicked(GtkWidget *button,$/;"	f
+on_TRsupprimer_clicked	callbacks.c	/^void on_TRsupprimer_clicked(GtkWidget *button,$/;"	f
+on_TRactualiser_clicked	callbacks.c	/^void on_TRactualiser_clicked(GtkWidget *button,$/;"	f
+on_TRrechercher_clicked	callbacks.c	/^void on_TRrechercher_clicked(GtkWidget *button,$/;"	f
+on_TRquit_clicked	callbacks.c	/^void on_TRquit_clicked(GtkWidget *button,$/;"	f
+on_TRradiobuttonY_toggled	callbacks.c	/^void on_TRradiobuttonY_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_TRradiobuttonN_toggled	callbacks.c	/^void on_TRradiobuttonN_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_TRokbutton_clicked	callbacks.c	/^void on_TRokbutton_clicked(GtkWidget *button,$/;"	f
+on_treeview7_row_activated	callbacks.c	/^void on_treeview7_row_activated(GtkTreeView *treeview,$/;"	f
+on_BhconfirmerA_clicked	callbacks.c	/^void on_BhconfirmerA_clicked(GtkWidget *button,$/;"	f
+on_BHrobotA_toggled	callbacks.c	/^void on_BHrobotA_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_BHrobotM_toggled	callbacks.c	/^void on_BHrobotM_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_BHconfirmerM_clicked	callbacks.c	/^void on_BHconfirmerM_clicked(GtkWidget *button,$/;"	f
+on_BHreturn_clicked	callbacks.c	/^void on_BHreturn_clicked(GtkWidget *button,$/;"	f
+on_BHstat_clicked	callbacks.c	/^void on_BHstat_clicked(GtkWidget *button,$/;"	f
+on_BHmodifier_clicked	callbacks.c	/^void on_BHmodifier_clicked(GtkWidget *button,$/;"	f
+on_BHsupprimer_clicked	callbacks.c	/^void on_BHsupprimer_clicked(GtkWidget *button,$/;"	f
+on_BHactualiser_clicked	callbacks.c	/^void on_BHactualiser_clicked(GtkWidget *button,$/;"	f
+on_BHrechercher_clicked	callbacks.c	/^void on_BHrechercher_clicked(GtkWidget *button,$/;"	f
+on_BHquit_clicked	callbacks.c	/^void on_BHquit_clicked(GtkWidget *button,$/;"	f
+on_BHradiobuttonN_toggled	callbacks.c	/^void on_BHradiobuttonN_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_BHradiobuttonY_toggled	callbacks.c	/^void on_BHradiobuttonY_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_BHokbutton_clicked	callbacks.c	/^void on_BHokbutton_clicked(GtkWidget *button,$/;"	f
+on_Loginrobot_toggled	callbacks.c	/^void on_Loginrobot_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_LoginButton_clicked	callbacks.c	/^void on_LoginButton_clicked(GtkWidget *button,$/;"	f
+on_AdminbuttonGU_clicked	callbacks.c	/^void on_AdminbuttonGU_clicked(GtkWidget *button,$/;"	f
+on_AdminbuttonGE_clicked	callbacks.c	/^void on_AdminbuttonGE_clicked(GtkWidget *button,$/;"	f
+on_AdminbuttonGBV_clicked	callbacks.c	/^void on_AdminbuttonGBV_clicked(GtkWidget *button,$/;"	f
+on_Adminquit_clicked	callbacks.c	/^void on_Adminquit_clicked(GtkWidget *button,$/;"	f
+on_ElecVoter_clicked	callbacks.c	/^void on_ElecVoter_clicked(GtkWidget *button,$/;"	f
+on_ElecGLE_clicked	callbacks.c	/^void on_ElecGLE_clicked(GtkWidget *button,$/;"	f
+on_Elecquit_clicked	callbacks.c	/^void on_Elecquit_clicked(GtkWidget *button,$/;"	f
+on_treeviewV_row_activated	callbacks.c	/^void on_treeviewV_row_activated(GtkTreeView *treeview,$/;"	f
+on_Vvoter_clicked	callbacks.c	/^void on_Vvoter_clicked(GtkWidget *button,$/;"	f
+on_Vrobot_toggled	callbacks.c	/^void on_Vrobot_toggled(GtkToggleButton *togglebutton,$/;"	f
+on_Vquit_clicked	callbacks.c	/^void on_Vquit_clicked(GtkWidget *button,$/;"	f
+on_Vactualiser_clicked	callbacks.c	/^void on_Vactualiser_clicked(GtkWidget *button,$/;"	f
+on_Vrechercher_clicked	callbacks.c	/^void on_Vrechercher_clicked(GtkWidget *button,$/;"	f
+on_Vreturn_clicked	callbacks.c	/^void on_Vreturn_clicked(GtkWidget *button,$/;"	f
+on_treeviewCG_row_activated	callbacks.c	/^on_treeviewCG_row_activated            (GtkTreeView     *treeview,$/;"	f
+on_Statactualiser_clicked	callbacks.c	/^on_Statactualiser_clicked              (GtkButton       *button,$/;"	f
+on_Statquit_clicked	callbacks.c	/^on_Statquit_clicked                    (GtkButton       *button,$/;"	f
+on_Statreturn_clicked	callbacks.c	/^on_Statreturn_clicked                  (GtkButton       *button,$/;"	f
+selection1	callbacks.c	/^GtkTreeSelection *selection1;$/;"	v
+on_AcceuilGestionw_clicked	callbacks.c	/^on_AcceuilGestionw_clicked              (GtkButton       *button,$/;"	f
+on_Ajouterobservateur_clicked	callbacks.c	/^on_Ajouterobservateur_clicked               (GtkButton       *button,$/;"	f
+on_Modifierobservateur_clicked	callbacks.c	/^on_Modifierobservateur_clicked              (GtkButton       *button,$/;"	f
+on_chercherobservateur_clicked	callbacks.c	/^on_chercherobservateur_clicked              (GtkButton       *button,$/;"	f
+on_GestionAcceuilw_clicked	callbacks.c	/^on_GestionAcceuilw_clicked              (GtkButton       *button,$/;"	f
+on_bmodifier_clickedw	callbacks.c	/^on_bmodifier_clickedw                   (GtkButton       *button,$/;"	f
+on_bsupprimer_clickedw	callbacks.c	/^on_bsupprimer_clickedw                  (GtkButton       *button,$/;"	f
+on_bafficher12w_clicked	callbacks.c	/^on_bafficher12w_clicked                 (GtkButton       *button,$/;"	f
+on_treeview2w_row_activated	callbacks.c	/^on_treeview2w_row_activated             (GtkTreeView     *treeview,$/;"	f
+on_radiobuttonf_toggled	callbacks.c	/^on_radiobuttonf_toggled                (GtkToggleButton *togglebutton,$/;"	f
+on_radiobuttonm_toggled	callbacks.c	/^on_radiobuttonm_toggled                (GtkToggleButton *togglebutton,$/;"	f
+on_AdminbuttonGO_clicked	callbacks.c	/^on_AdminbuttonGO_clicked               (GtkButton       *button,$/;"	f
+on_AMStat_clicked	callbacks.c	/^on_AMStat_clicked                      (GtkWidget       *objet_graphique,$/;"	f
+create_BIwindowG	interface.h	/^GtkWidget* create_BIwindowG (void);$/;"	p
+create_JDwindowG	interface.h	/^GtkWidget* create_JDwindowG (void);$/;"	p
+create_BIdialog	interface.h	/^GtkWidget* create_BIdialog (void);$/;"	p
+create_JDdialog	interface.h	/^GtkWidget* create_JDdialog (void);$/;"	p
+create_RAwindowG	interface.h	/^GtkWidget* create_RAwindowG (void);$/;"	p
+create_RAdialog	interface.h	/^GtkWidget* create_RAdialog (void);$/;"	p
+create_TRwindowG	interface.h	/^GtkWidget* create_TRwindowG (void);$/;"	p
+create_TRdialog	interface.h	/^GtkWidget* create_TRdialog (void);$/;"	p
+create_BHwindowG	interface.h	/^GtkWidget* create_BHwindowG (void);$/;"	p
+create_BHdialog	interface.h	/^GtkWidget* create_BHdialog (void);$/;"	p
+create_LoginWindow	interface.h	/^GtkWidget* create_LoginWindow (void);$/;"	p
+create_AdminWindow	interface.h	/^GtkWidget* create_AdminWindow (void);$/;"	p
+create_ElecWindow	interface.h	/^GtkWidget* create_ElecWindow (void);$/;"	p
+create_VoteWindow	interface.h	/^GtkWidget* create_VoteWindow (void);$/;"	p
+create_Statwindow	interface.h	/^GtkWidget* create_Statwindow (void);$/;"	p
+create_gestionw	interface.h	/^GtkWidget* create_gestionw (void);$/;"	p
+create_statw	interface.h	/^GtkWidget* create_statw (void);$/;"	p
+GLADE_HOOKUP_OBJECT	interface.c	22;"	d	file:
+GLADE_HOOKUP_OBJECT_NO_REF	interface.c	26;"	d	file:
+create_BIwindowG	interface.c	/^create_BIwindowG (void)$/;"	f
+create_JDwindowG	interface.c	/^create_JDwindowG (void)$/;"	f
+create_BIdialog	interface.c	/^create_BIdialog (void)$/;"	f
+create_JDdialog	interface.c	/^create_JDdialog (void)$/;"	f
+create_RAwindowG	interface.c	/^create_RAwindowG (void)$/;"	f
+create_RAdialog	interface.c	/^create_RAdialog (void)$/;"	f
+create_TRwindowG	interface.c	/^create_TRwindowG (void)$/;"	f
+create_TRdialog	interface.c	/^create_TRdialog (void)$/;"	f
+create_BHwindowG	interface.c	/^create_BHwindowG (void)$/;"	f
+create_BHdialog	interface.c	/^create_BHdialog (void)$/;"	f
+create_LoginWindow	interface.c	/^create_LoginWindow (void)$/;"	f
+create_AdminWindow	interface.c	/^create_AdminWindow (void)$/;"	f
+create_ElecWindow	interface.c	/^create_ElecWindow (void)$/;"	f
+create_VoteWindow	interface.c	/^create_VoteWindow (void)$/;"	f
+create_Statwindow	interface.c	/^create_Statwindow (void)$/;"	f
+create_gestionw	interface.c	/^create_gestionw (void)$/;"	f
+create_statw	interface.c	/^create_statw (void)$/;"	f
+EIDENTIFIANT	list.c	/^    EIDENTIFIANT,$/;"	e	enum:__anon1	file:
+EID	list.c	/^    EID,$/;"	e	enum:__anon1	file:
+EORIENTATION	list.c	/^    EORIENTATION,$/;"	e	enum:__anon1	file:
+EID1	list.c	/^    EID1,$/;"	e	enum:__anon1	file:
+EID2	list.c	/^    EID2,$/;"	e	enum:__anon1	file:
+EID3	list.c	/^    EID3,$/;"	e	enum:__anon1	file:
+COLUMNS	list.c	/^    COLUMNS$/;"	e	enum:__anon1	file:
+ajouter_l	list.c	/^int ajouter_l(char *fichier, listelectoral L)$/;"	f
+modifier_l	list.c	/^int modifier_l(char *fichier, listelectoral nouv, char Identifiant[])$/;"	f
+supprimer_l	list.c	/^int supprimer_l(char *fichier, char Identifiant[])$/;"	f
+afficher_l	list.c	/^void afficher_l(GtkWidget *liste)$/;"	f
+afficher_v	list.c	/^void afficher_v(GtkWidget *liste)$/;"	f
+supp_l	list.c	/^void supp_l(listelectoral L)$/;"	f
+afficherrech_l	list.c	/^void afficherrech_l(GtkWidget *liste, char ID[])$/;"	f
+acceuilw	callbacks.h	/^  GtkWidget *acceuilw;$/;"	v
+gestionw	callbacks.h	/^  GtkWidget *gestionw;$/;"	v
+observateur	callbacks.h	/^typedef struct observateur observateur ;$/;"	t	typeref:struct:observateur
+observateur	callbacks.h	/^struct observateur{$/;"	s
+cin	callbacks.h	/^char cin[30];$/;"	m	struct:observateur
+sexe	callbacks.h	/^char sexe[30];$/;"	m	struct:observateur
+nationalite	callbacks.h	/^char nationalite[30];$/;"	m	struct:observateur
+date	callbacks.h	/^char date[30];$/;"	m	struct:observateur
+nom	callbacks.h	/^char nom[30];$/;"	m	struct:observateur
+user	callbacks.h	/^char user[30];$/;"	m	struct:observateur
+password	callbacks.h	/^char password[30];$/;"	m	struct:observateur
+appartenance	callbacks.h	/^char appartenance[30];$/;"	m	struct:observateur
+i	callbacks.h	/^int i,j;$/;"	v
+j	callbacks.h	/^int i,j;$/;"	v
+on_treeview1_row_activated	callbacks.h	/^void on_treeview1_row_activated(GtkTreeView *treeview,$/;"	p
+on_BIrechercher_clicked	callbacks.h	/^void on_BIrechercher_clicked(GtkWidget *button,$/;"	p
+on_BIquit_clicked	callbacks.h	/^void on_BIquit_clicked(GtkWidget *button,$/;"	p
+on_BIactualiser_clicked	callbacks.h	/^void on_BIactualiser_clicked(GtkWidget *button,$/;"	p
+on_BIsupprimer_clicked	callbacks.h	/^void on_BIsupprimer_clicked(GtkWidget *button,$/;"	p
+on_BImodifier_clicked	callbacks.h	/^void on_BImodifier_clicked(GtkWidget *button,$/;"	p
+on_BIStat_clicked	callbacks.h	/^void on_BIStat_clicked(GtkWidget *button,$/;"	p
+on_BIreturn_clicked	callbacks.h	/^void on_BIreturn_clicked(GtkWidget *button,$/;"	p
+on_BIcalendarA_day_selected	callbacks.h	/^void on_BIcalendarA_day_selected(GtkCalendar *calendar,$/;"	p
+on_BIrobotA_toggled	callbacks.h	/^void on_BIrobotA_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_BIconfirmerA_clicked	callbacks.h	/^void on_BIconfirmerA_clicked(GtkWidget *button,$/;"	p
+on_BIcalendarM_day_selected	callbacks.h	/^void on_BIcalendarM_day_selected(GtkCalendar *calendar,$/;"	p
+on_BIrobotM_toggled	callbacks.h	/^void on_BIrobotM_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_BIconfirmerM_clicked	callbacks.h	/^void on_BIconfirmerM_clicked(GtkWidget *button,$/;"	p
+on_label31_show	callbacks.h	/^void on_label31_show(GtkWidget *widget,$/;"	p
+on_JDreturn_clicked	callbacks.h	/^void on_JDreturn_clicked(GtkWidget *button,$/;"	p
+on_JDstat_clicked	callbacks.h	/^void on_JDstat_clicked(GtkWidget *button,$/;"	p
+on_JDmodifier_clicked	callbacks.h	/^void on_JDmodifier_clicked(GtkWidget *button,$/;"	p
+on_JDsupprimer_clicked	callbacks.h	/^void on_JDsupprimer_clicked(GtkWidget *button,$/;"	p
+on_JDactualiser_clicked	callbacks.h	/^void on_JDactualiser_clicked(GtkWidget *button,$/;"	p
+on_JDrechercher_clicked	callbacks.h	/^void on_JDrechercher_clicked(GtkWidget *button,$/;"	p
+on_JDcheckbuttonA_toggled	callbacks.h	/^void on_JDcheckbuttonA_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_JDconfirmerA_clicked	callbacks.h	/^void on_JDconfirmerA_clicked(GtkWidget *button,$/;"	p
+on_JDradiobuttonNA_toggled	callbacks.h	/^void on_JDradiobuttonNA_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_JDradiobuttonYA_toggled	callbacks.h	/^void on_JDradiobuttonYA_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_JDradiobuttonYM_toggled	callbacks.h	/^void on_JDradiobuttonYM_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_JDradiobuttonNM_toggled	callbacks.h	/^void on_JDradiobuttonNM_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_JDcheckbuttonM_toggled	callbacks.h	/^void on_JDcheckbuttonM_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_JDconfirmerM_clicked	callbacks.h	/^void on_JDconfirmerM_clicked(GtkWidget *button,$/;"	p
+on_JDquit_clicked	callbacks.h	/^void on_JDquit_clicked(GtkWidget *button,$/;"	p
+on_BIradiobuttonN_toggled	callbacks.h	/^void on_BIradiobuttonN_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_BIradiobuttonY_toggled	callbacks.h	/^void on_BIradiobuttonY_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_BIokbutton_clicked	callbacks.h	/^void on_BIokbutton_clicked(GtkWidget *button,$/;"	p
+on_JDradiobuttonN_toggled	callbacks.h	/^void on_JDradiobuttonN_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_JDradiobuttonY_toggled	callbacks.h	/^void on_JDradiobuttonY_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_JDokbutton_clicked	callbacks.h	/^void on_JDokbutton_clicked(GtkWidget *button,$/;"	p
+on_AMtreeview_row_activated	callbacks.h	/^void on_AMtreeview_row_activated(GtkTreeView *treeview,$/;"	p
+on_AMreturn_clicked	callbacks.h	/^void on_AMreturn_clicked(GtkWidget *button,$/;"	p
+on_AMquit_clicked	callbacks.h	/^void on_AMquit_clicked(GtkWidget *button,$/;"	p
+on_AMrechercher_clicked	callbacks.h	/^void on_AMrechercher_clicked(GtkWidget *button,$/;"	p
+on_AMactualiser_clicked	callbacks.h	/^void on_AMactualiser_clicked(GtkWidget *button,$/;"	p
+on_AMsupprimer_clicked	callbacks.h	/^void on_AMsupprimer_clicked(GtkWidget *button,$/;"	p
+on_AMmodifier_clicked	callbacks.h	/^void on_AMmodifier_clicked(GtkWidget *button,$/;"	p
+on_AMcalendarA_day_selected	callbacks.h	/^void on_AMcalendarA_day_selected(GtkCalendar *calendar,$/;"	p
+on_AMrobotA_toggled	callbacks.h	/^void on_AMrobotA_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_AMradiobuttonAH_toggled	callbacks.h	/^void on_AMradiobuttonAH_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_AMradiobuttonAF_toggled	callbacks.h	/^void on_AMradiobuttonAF_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_AMconfirmerA_clicked	callbacks.h	/^void on_AMconfirmerA_clicked(GtkWidget *button,$/;"	p
+on_AMradiobuttonMH_toggled	callbacks.h	/^void on_AMradiobuttonMH_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_AMradiobuttonMF_toggled	callbacks.h	/^void on_AMradiobuttonMF_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_AMrobotM_clicked	callbacks.h	/^void on_AMrobotM_clicked(GtkWidget *button,$/;"	p
+on_AMconfirmerM_clicked	callbacks.h	/^void on_AMconfirmerM_clicked(GtkWidget *button,$/;"	p
+on_AMradiobuttonN_toggled	callbacks.h	/^void on_AMradiobuttonN_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_AMradiobuttonY_toggled	callbacks.h	/^void on_AMradiobuttonY_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_AMokbutton_clicked	callbacks.h	/^void on_AMokbutton_clicked(GtkWidget *button,$/;"	p
+on_treeview2_row_activated	callbacks.h	/^void on_treeview2_row_activated(GtkTreeView *treeview,$/;"	p
+on_RAcalendarA_day_selected	callbacks.h	/^void on_RAcalendarA_day_selected(GtkCalendar *calendar,$/;"	p
+on_RAcalendarM_day_selected	callbacks.h	/^void on_RAcalendarM_day_selected(GtkCalendar *calendar,$/;"	p
+on_RArobotM_clicked	callbacks.h	/^void on_RArobotM_clicked(GtkWidget *button,$/;"	p
+on_RAconfirmerM_clicked	callbacks.h	/^void on_RAconfirmerM_clicked(GtkWidget *button,$/;"	p
+on_RAconfirmerA_clicked	callbacks.h	/^void on_RAconfirmerA_clicked(GtkWidget *button,$/;"	p
+on_RArechercher_clicked	callbacks.h	/^void on_RArechercher_clicked(GtkWidget *button,$/;"	p
+on_RAsupprimer_clicked	callbacks.h	/^void on_RAsupprimer_clicked(GtkWidget *button,$/;"	p
+on_RAactualiser_clicked	callbacks.h	/^void on_RAactualiser_clicked(GtkWidget *button,$/;"	p
+on_RAmodifier_clicked	callbacks.h	/^void on_RAmodifier_clicked(GtkWidget *button,$/;"	p
+on_RAstat_clicked	callbacks.h	/^void on_RAstat_clicked(GtkWidget *button,$/;"	p
+on_RAquit_clicked	callbacks.h	/^void on_RAquit_clicked(GtkWidget *button,$/;"	p
+on_RAreturn_clicked	callbacks.h	/^void on_RAreturn_clicked(GtkWidget *button,$/;"	p
+on_RAradiobuttonY_toggled	callbacks.h	/^void on_RAradiobuttonY_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_RAradiobuttonN_toggled	callbacks.h	/^void on_RAradiobuttonN_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_RAokbutton_clicked	callbacks.h	/^void on_RAokbutton_clicked(GtkWidget *button,$/;"	p
+on_treeview3_row_activated	callbacks.h	/^void on_treeview3_row_activated(GtkTreeView *treeview,$/;"	p
+on_treeview4_row_activated	callbacks.h	/^void on_treeview4_row_activated(GtkTreeView *treeview,$/;"	p
+on_RArobotA_toggled	callbacks.h	/^void on_RArobotA_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_RArobotM_toggled	callbacks.h	/^void on_RArobotM_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_treeview5_row_activated	callbacks.h	/^void on_treeview5_row_activated(GtkTreeView *treeview,$/;"	p
+on_TRcheckbuttonDA_toggled	callbacks.h	/^void on_TRcheckbuttonDA_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_TRcheckbuttonGA_toggled	callbacks.h	/^void on_TRcheckbuttonGA_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_TRrobotA_toggled	callbacks.h	/^void on_TRrobotA_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_TRconfirmerA_clicked	callbacks.h	/^void on_TRconfirmerA_clicked(GtkWidget *button,$/;"	p
+on_TRcheckbuttonGM_toggled	callbacks.h	/^void on_TRcheckbuttonGM_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_TRcheckbuttonDM_toggled	callbacks.h	/^void on_TRcheckbuttonDM_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_TRconfirmerM_clicked	callbacks.h	/^void on_TRconfirmerM_clicked(GtkWidget *button,$/;"	p
+on_TRrobotM_toggled	callbacks.h	/^void on_TRrobotM_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_TRreturn_clicked	callbacks.h	/^void on_TRreturn_clicked(GtkWidget *button,$/;"	p
+on_TRstat_clicked	callbacks.h	/^void on_TRstat_clicked(GtkWidget *button,$/;"	p
+on_TRmodifier_clicked	callbacks.h	/^void on_TRmodifier_clicked(GtkWidget *button,$/;"	p
+on_TRsupprimer_clicked	callbacks.h	/^void on_TRsupprimer_clicked(GtkWidget *button,$/;"	p
+on_TRactualiser_clicked	callbacks.h	/^void on_TRactualiser_clicked(GtkWidget *button,$/;"	p
+on_TRrechercher_clicked	callbacks.h	/^void on_TRrechercher_clicked(GtkWidget *button,$/;"	p
+on_TRquit_clicked	callbacks.h	/^void on_TRquit_clicked(GtkWidget *button,$/;"	p
+on_TRradiobuttonY_toggled	callbacks.h	/^void on_TRradiobuttonY_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_TRradiobuttonN_toggled	callbacks.h	/^void on_TRradiobuttonN_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_TRokbutton_clicked	callbacks.h	/^void on_TRokbutton_clicked(GtkWidget *button,$/;"	p
+on_treeview7_row_activated	callbacks.h	/^void on_treeview7_row_activated(GtkTreeView *treeview,$/;"	p
+on_BhconfirmerA_clicked	callbacks.h	/^void on_BhconfirmerA_clicked(GtkWidget *button,$/;"	p
+on_BHrobotA_toggled	callbacks.h	/^void on_BHrobotA_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_BHrobotM_toggled	callbacks.h	/^void on_BHrobotM_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_BHconfirmerM_clicked	callbacks.h	/^void on_BHconfirmerM_clicked(GtkWidget *button,$/;"	p
+on_BHreturn_clicked	callbacks.h	/^void on_BHreturn_clicked(GtkWidget *button,$/;"	p
+on_BHstat_clicked	callbacks.h	/^void on_BHstat_clicked(GtkWidget *button,$/;"	p
+on_BHmodifier_clicked	callbacks.h	/^void on_BHmodifier_clicked(GtkWidget *button,$/;"	p
+on_BHsupprimer_clicked	callbacks.h	/^void on_BHsupprimer_clicked(GtkWidget *button,$/;"	p
+on_BHactualiser_clicked	callbacks.h	/^void on_BHactualiser_clicked(GtkWidget *button,$/;"	p
+on_BHrechercher_clicked	callbacks.h	/^void on_BHrechercher_clicked(GtkWidget *button,$/;"	p
+on_BHquit_clicked	callbacks.h	/^void on_BHquit_clicked(GtkWidget *button,$/;"	p
+on_BHradiobuttonN_toggled	callbacks.h	/^void on_BHradiobuttonN_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_BHradiobuttonY_toggled	callbacks.h	/^void on_BHradiobuttonY_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_BHokbutton_clicked	callbacks.h	/^void on_BHokbutton_clicked(GtkWidget *button,$/;"	p
+on_Loginrobot_toggled	callbacks.h	/^void on_Loginrobot_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_LoginButton_clicked	callbacks.h	/^void on_LoginButton_clicked(GtkWidget *button,$/;"	p
+on_AdminbuttonGU_clicked	callbacks.h	/^void on_AdminbuttonGU_clicked(GtkWidget *button,$/;"	p
+on_AdminbuttonGE_clicked	callbacks.h	/^void on_AdminbuttonGE_clicked(GtkWidget *button,$/;"	p
+on_AdminbuttonGBV_clicked	callbacks.h	/^void on_AdminbuttonGBV_clicked(GtkWidget *button,$/;"	p
+on_Adminquit_clicked	callbacks.h	/^void on_Adminquit_clicked(GtkWidget *button,$/;"	p
+on_ElecVoter_clicked	callbacks.h	/^void on_ElecVoter_clicked(GtkWidget *button,$/;"	p
+on_ElecGLE_clicked	callbacks.h	/^void on_ElecGLE_clicked(GtkWidget *button,$/;"	p
+on_Elecquit_clicked	callbacks.h	/^void on_Elecquit_clicked(GtkWidget *button,$/;"	p
+on_treeviewV_row_activated	callbacks.h	/^void on_treeviewV_row_activated(GtkTreeView *treeview,$/;"	p
+on_Vvoter_clicked	callbacks.h	/^void on_Vvoter_clicked(GtkWidget *button,$/;"	p
+on_Vrobot_toggled	callbacks.h	/^void on_Vrobot_toggled(GtkToggleButton *togglebutton,$/;"	p
+on_Vquit_clicked	callbacks.h	/^void on_Vquit_clicked(GtkWidget *button,$/;"	p
+on_Vactualiser_clicked	callbacks.h	/^void on_Vactualiser_clicked(GtkWidget *button,$/;"	p
+on_Vrechercher_clicked	callbacks.h	/^void on_Vrechercher_clicked(GtkWidget *button,$/;"	p
+on_Vreturn_clicked	callbacks.h	/^void on_Vreturn_clicked(GtkWidget *button,$/;"	p
+on_treeviewCG_row_activated	callbacks.h	/^on_treeviewCG_row_activated            (GtkTreeView     *treeview,$/;"	p
+on_Statactualiser_clicked	callbacks.h	/^on_Statactualiser_clicked              (GtkButton       *button,$/;"	p
+on_Statquit_clicked	callbacks.h	/^on_Statquit_clicked                    (GtkButton       *button,$/;"	p
+on_Statreturn_clicked	callbacks.h	/^on_Statreturn_clicked                  (GtkButton       *button,$/;"	p
+on_AcceuilGestionw_clicked	callbacks.h	/^on_AcceuilGestionw_clicked              (GtkButton       *button,$/;"	p
+on_GestionAcceuilw_clicked	callbacks.h	/^on_GestionAcceuilw_clicked              (GtkButton       *button,$/;"	p
+on_bmodifier_clickedw	callbacks.h	/^on_bmodifier_clickedw                   (GtkButton       *button,$/;"	p
+on_bsupprimer_clickedw	callbacks.h	/^on_bsupprimer_clickedw                  (GtkButton       *button,$/;"	p
+on_bafficher12w_clicked	callbacks.h	/^on_bafficher12w_clicked                 (GtkButton       *button,$/;"	p
+on_treeview2w_row_activated	callbacks.h	/^on_treeview2w_row_activated             (GtkTreeView     *treeview,$/;"	p
+on_button_calcule_clicked	callbacks.h	/^on_button_calcule_clicked              (GtkButton       *button,$/;"	p
+on_Ajouterobservateur_clicked	callbacks.h	/^on_Ajouterobservateur_clicked          (GtkButton       *button,$/;"	p
+on_Modifierobservateur_clicked	callbacks.h	/^on_Modifierobservateur_clicked         (GtkButton       *button,$/;"	p
+on_chercherobservateur_clicked	callbacks.h	/^on_chercherobservateur_clicked         (GtkButton       *button,$/;"	p
+on_radiobuttonf_toggled	callbacks.h	/^on_radiobuttonf_toggled                (GtkToggleButton *togglebutton,$/;"	p
+on_radiobuttonm_toggled	callbacks.h	/^on_radiobuttonm_toggled                (GtkToggleButton *togglebutton,$/;"	p
+on_AdminbuttonGO_clicked	callbacks.h	/^on_AdminbuttonGO_clicked               (GtkButton       *button,$/;"	p
+on_AMStat_clicked	callbacks.h	/^on_AMStat_clicked                      (GtkWidget       *objet_graphique,$/;"	p
+ajouter_observateur	CRUD.c	/^void ajouter_observateur( observateur o){$/;"	f
+exist_observateur	CRUD.c	/^int exist_observateur(char*cin){$/;"	f
+supprimer_observateur	CRUD.c	/^void supprimer_observateur(char*cin){$/;"	f
+ajouter_observateur	CRUD.h	/^void ajouter_observateur(observateur o );$/;"	p
+exist_observateur	CRUD.h	/^int exist_observateur(char*cin);$/;"	p
+supprimer_observateur	CRUD.h	/^void supprimer_observateur(char*cin);$/;"	p
+EIDBV	bv.c	/^    EIDBV,$/;"	e	enum:__anon2	file:
+ECAPE	bv.c	/^    ECAPE,$/;"	e	enum:__anon2	file:
+EDELP	bv.c	/^    EDELP,$/;"	e	enum:__anon2	file:
+EOBSP	bv.c	/^    EOBSP,$/;"	e	enum:__anon2	file:
+EIDABV	bv.c	/^    EIDABV,$/;"	e	enum:__anon2	file:
+ENUMS	bv.c	/^    ENUMS,$/;"	e	enum:__anon2	file:
+COLUMNS	bv.c	/^    COLUMNS,$/;"	e	enum:__anon2	file:
+ajouter_bv	bv.c	/^int ajouter_bv(BV b)$/;"	f
+afficher_bv	bv.c	/^void afficher_bv(GtkWidget *liste)$/;"	f
+supprimer_bv	bv.c	/^void supprimer_bv(BV b)$/;"	f
+vider_bv	bv.c	/^void vider_bv(GtkWidget *liste)$/;"	f
+afficherrech_bv	bv.c	/^void afficherrech_bv(char idbv[], GtkWidget *liste)$/;"	f
+modifier_bv	bv.c	/^int modifier_bv(char idbv[], BV nouv, char *filename)$/;"	f
+chercher_bv	bv.c	/^BV chercher_bv(char idbv[], char *filename)$/;"	f
+Bureau_de_vote	bv.h	/^typedef struct Bureau_de_vote$/;"	s
+idBV	bv.h	/^    char idBV[10];$/;"	m	struct:Bureau_de_vote
+cap_el	bv.h	/^    char cap_el[10];$/;"	m	struct:Bureau_de_vote
+del_p	bv.h	/^    char del_p[10];$/;"	m	struct:Bureau_de_vote
+obs_p	bv.h	/^    char obs_p[100];$/;"	m	struct:Bureau_de_vote
+idABV	bv.h	/^    char idABV[10];$/;"	m	struct:Bureau_de_vote
+num_s	bv.h	/^    char num_s[5];$/;"	m	struct:Bureau_de_vote
+BV	bv.h	/^} BV;$/;"	t	typeref:struct:Bureau_de_vote
+ajouter_bv	bv.h	/^int ajouter_bv(BV b);$/;"	p
+modifier_bv	bv.h	/^int modifier_bv(char idbv[], BV nouv, char *filename);$/;"	p
+supprimer_bv	bv.h	/^void supprimer_bv(BV b);$/;"	p
+chercher_bv	bv.h	/^BV chercher_bv(char idbv[], char *filename);$/;"	p
+NEBV	bv.h	/^int NEBV(char *nomFichier1, char *nomFichier2, int *t_nebv);$/;"	p
+afficher_bv	bv.h	/^void afficher_bv(GtkWidget *liste);$/;"	p
+afficherrech_bv	bv.h	/^void afficherrech_bv(char idbv[], GtkWidget *liste);$/;"	p
+vider_bv	bv.h	/^void vider_bv(GtkWidget *liste);$/;"	p
+EIDEL	election.c	/^    EIDEL,$/;"	e	enum:__anon3	file:
+EJR	election.c	/^    EJR,$/;"	e	enum:__anon3	file:
+EMS	election.c	/^    EMS,$/;"	e	enum:__anon3	file:
+EANN	election.c	/^    EANN,$/;"	e	enum:__anon3	file:
+ENH	election.c	/^    ENH,$/;"	e	enum:__anon3	file:
+ENBCONS	election.c	/^    ENBCONS,$/;"	e	enum:__anon3	file:
+EMUNICIP	election.c	/^    EMUNICIP,$/;"	e	enum:__anon3	file:
+COLUMNS	election.c	/^    COLUMNS,$/;"	e	enum:__anon3	file:
+ajouter_election	election.c	/^int ajouter_election(Election E, char filename[])$/;"	f
+modifier_election	election.c	/^int modifier_election(char id[], Election nouv, char *filename)$/;"	f
+supprimer_election	election.c	/^int supprimer_election(char id[], char *filename)$/;"	f
+chercher_election	election.c	/^Election chercher_election(char id[], char *filename)$/;"	f
+afficher_elec	election.c	/^void afficher_elec(GtkWidget *liste)$/;"	f
+vider	election.c	/^void vider(GtkWidget *liste)$/;"	f
+afficherelec_rech	election.c	/^void afficherelec_rech(GtkWidget *liste, char idch[])$/;"	f
+ELECTION_H_INCLUDED	election.h	2;"	d
+jour	election.h	/^    char jour[10];$/;"	m	struct:__anon4
+mois	election.h	/^    char mois[10];$/;"	m	struct:__anon4
+annee	election.h	/^    char annee[10];$/;"	m	struct:__anon4
+Date	election.h	/^}Date;$/;"	t	typeref:struct:__anon4
+Election	election.h	/^typedef struct Election$/;"	s
+identifiant	election.h	/^    char identifiant[20];$/;"	m	struct:Election
+d	election.h	/^    Date d;$/;"	m	struct:Election
+nhabit	election.h	/^    char nhabit[20];$/;"	m	struct:Election
+nbcons	election.h	/^    char nbcons[20];$/;"	m	struct:Election
+municip	election.h	/^    char municip[20];$/;"	m	struct:Election
+Election	election.h	/^}Election;$/;"	t	typeref:struct:Election
+ajouter_election	election.h	/^int ajouter_election(Election e , char filename []);$/;"	p
+modifier_election	election.h	/^int modifier_election(char id[], Election nouv, char * filename);$/;"	p
+supprimer_election	election.h	/^int supprimer_election(char id[], char * filename);$/;"	p
+chercher_election	election.h	/^Election chercher_election(char id[], char * filename);$/;"	p
+TPE	election.h	/^float TPE(char *filename); $/;"	p
+afficher_elec	election.h	/^void afficher_elec(GtkWidget *liste);$/;"	p
+afficherelec_rech	election.h	/^void afficherelec_rech(GtkWidget *liste,char idch[]);$/;"	p
+vider	election.h	/^void vider(GtkWidget *liste);$/;"	p
+LISTEELEC_H_INCLUDED	listelectoral.h	2;"	d
+listelectoral	listelectoral.h	/^typedef struct listelectoral$/;"	s
+identifiant	listelectoral.h	/^    char identifiant[20], id[20], id1[20], id2[20], id3[20];$/;"	m	struct:listelectoral
+id	listelectoral.h	/^    char identifiant[20], id[20], id1[20], id2[20], id3[20];$/;"	m	struct:listelectoral
+id1	listelectoral.h	/^    char identifiant[20], id[20], id1[20], id2[20], id3[20];$/;"	m	struct:listelectoral
+id2	listelectoral.h	/^    char identifiant[20], id[20], id1[20], id2[20], id3[20];$/;"	m	struct:listelectoral
+id3	listelectoral.h	/^    char identifiant[20], id[20], id1[20], id2[20], id3[20];$/;"	m	struct:listelectoral
+orientation	listelectoral.h	/^    char orientation[20];$/;"	m	struct:listelectoral
+listelectoral	listelectoral.h	/^} listelectoral;$/;"	t	typeref:struct:listelectoral
+Date	listelectoral.h	/^typedef struct Date$/;"	s
+jour	listelectoral.h	/^    int jour;$/;"	m	struct:Date
+mois	listelectoral.h	/^    int mois;$/;"	m	struct:Date
+annee	listelectoral.h	/^    int annee;$/;"	m	struct:Date
+Date2	listelectoral.h	/^} Date2;$/;"	t	typeref:struct:Date
+ajouter_l	listelectoral.h	/^int ajouter_l(char *fichier, listelectoral L);$/;"	p
+modifier_l	listelectoral.h	/^int modifier_l(char *fichier, listelectoral nouv, char Identifiant[]);$/;"	p
+supprimer_l	listelectoral.h	/^int supprimer_l(char *fichier, char Identifiant[]);$/;"	p
+afficher_l	listelectoral.h	/^void afficher_l(GtkWidget *liste);$/;"	p
+vider_l	listelectoral.h	/^void vider_l(GtkWidget *liste);$/;"	p
+supp_l	listelectoral.h	/^void supp_l(listelectoral L);$/;"	p
+afficherrech_l	listelectoral.h	/^void afficherrech_l(GtkWidget *liste, char ID[]);$/;"	p
+afficher_v	listelectoral.h	/^void afficher_v(GtkWidget *liste);$/;"	p
+main	main.c	/^main (int argc, char *argv[])$/;"	f
+ETYPEREC	reclamation.c	/^    ETYPEREC,$/;"	e	enum:__anon5	file:
+ELER	reclamation.c	/^    ELER,$/;"	e	enum:__anon5	file:
+ENUMBV	reclamation.c	/^    ENUMBV,$/;"	e	enum:__anon5	file:
+EIDREC	reclamation.c	/^    EIDREC,$/;"	e	enum:__anon5	file:
+COLUMNS	reclamation.c	/^    COLUMNS,$/;"	e	enum:__anon5	file:
+ajouter_reclamation	reclamation.c	/^int ajouter_reclamation(Reclamation R , char filename [])$/;"	f
+modifier_reclamation	reclamation.c	/^int modifier_reclamation(char id[], Reclamation nouv, char * filename)$/;"	f
+supprimer_reclamation	reclamation.c	/^int supprimer_reclamation(char id[], char * filename)$/;"	f
+chercher_reclamation	reclamation.c	/^Reclamation chercher_reclamation(char id[], char * filename)$/;"	f
+afficher_rec	reclamation.c	/^void afficher_rec(GtkWidget *liste)$/;"	f
+afficherrec_rech	reclamation.c	/^void afficherrec_rech(GtkWidget *liste,char id[])$/;"	f
+RECLAMATION_H_INCLUDED	reclamation.h	2;"	d
+Reclamation	reclamation.h	/^typedef struct Reclamation$/;"	s
+textrec	reclamation.h	/^    char textrec[100];$/;"	m	struct:Reclamation
+typerec	reclamation.h	/^    char typerec[20];$/;"	m	struct:Reclamation
+Listelecreclame	reclamation.h	/^    char Listelecreclame[20];$/;"	m	struct:Reclamation
+numBV	reclamation.h	/^    char numBV[20];$/;"	m	struct:Reclamation
+idrec	reclamation.h	/^    char idrec[20];$/;"	m	struct:Reclamation
+Reclamation	reclamation.h	/^}Reclamation;$/;"	t	typeref:struct:Reclamation
+ajouter_reclamation	reclamation.h	/^int ajouter_reclamation(Reclamation r , char filename []);$/;"	p
+modifier_reclamation	reclamation.h	/^int modifier_reclamation(char id[], Reclamation nouv, char * filename);$/;"	p
+supprimer_reclamation	reclamation.h	/^int supprimer_reclamation(char id[], char * filename);$/;"	p
+chercher_reclamation	reclamation.h	/^Reclamation chercher_reclamation(char id[], char * filename);$/;"	p
+afficher_rec	reclamation.h	/^void afficher_rec(GtkWidget *liste);$/;"	p
+afficherrec_rech	reclamation.h	/^void afficherrec_rech(GtkWidget *liste,char id[]);$/;"	p
+lookup_widget	support.c	/^lookup_widget                          (GtkWidget       *widget,$/;"	f
+pixmaps_directories	support.c	/^static GList *pixmaps_directories = NULL;$/;"	v	file:
+add_pixmap_directory	support.c	/^add_pixmap_directory                   (const gchar     *directory)$/;"	f
+find_pixmap_file	support.c	/^find_pixmap_file                       (const gchar     *filename)$/;"	f	file:
+create_pixmap	support.c	/^create_pixmap                          (GtkWidget       *widget,$/;"	f
+create_pixbuf	support.c	/^create_pixbuf                          (const gchar     *filename)$/;"	f
+glade_set_atk_action_description	support.c	/^glade_set_atk_action_description       (AtkAction       *action,$/;"	f
+_	support.h	16;"	d
+_	support.h	17;"	d
+Q_	support.h	18;"	d
+N_	support.h	20;"	d
+N_	support.h	22;"	d
+textdomain	support.h	25;"	d
+gettext	support.h	26;"	d
+dgettext	support.h	27;"	d
+dcgettext	support.h	28;"	d
+bindtextdomain	support.h	29;"	d
+_	support.h	30;"	d
+Q_	support.h	31;"	d
+N_	support.h	32;"	d
+lookup_widget	support.h	/^GtkWidget*  lookup_widget              (GtkWidget       *widget,$/;"	p
+add_pixmap_directory	support.h	/^void        add_pixmap_directory       (const gchar     *directory);$/;"	p
+create_pixmap	support.h	/^GtkWidget*  create_pixmap              (GtkWidget       *widget,$/;"	p
+create_pixbuf	support.h	/^GdkPixbuf*  create_pixbuf              (const gchar     *filename);$/;"	p
+glade_set_atk_action_description	support.h	/^void        glade_set_atk_action_description (AtkAction       *action,$/;"	p
+adstore	tree.c	/^GtkListStore *adstore;\/*creation du modele de type liste*\/$/;"	v
+adcolumn	tree.c	/^GtkTreeViewColumn *adcolumn;\/*visualisation des colonnes*\/$/;"	v
+cellad	tree.c	/^GtkCellRenderer *cellad;\/*afficheur de cellule(text,image..)*\/$/;"	v
+f	tree.c	/^FILE *f;$/;"	v
+Afficherobservateur	tree.c	/^void Afficherobservateur(GtkWidget* treeview1,char*l)$/;"	f
+Chercherobservateur	tree.c	/^int Chercherobservateur(GtkWidget* treeview1,char*l,char*cin)$/;"	f
+Afficherobservateur	tree.h	/^void Afficherobservateur(GtkWidget* treeview1,char*l);$/;"	p
+Chercherobservateur	tree.h	/^int Chercherobservateur(GtkWidget* treeview1,char*l,char*cin);$/;"	p
+U	utilisateur.c	/^Utilisateur U;$/;"	v
+NOM	utilisateur.c	/^  NOM,$/;"	e	enum:__anon6	file:
+PRENOM	utilisateur.c	/^  PRENOM,$/;"	e	enum:__anon6	file:
+CIN	utilisateur.c	/^  CIN,$/;"	e	enum:__anon6	file:
+EDDN	utilisateur.c	/^  EDDN,$/;"	e	enum:__anon6	file:
+ROLE	utilisateur.c	/^  ROLE,$/;"	e	enum:__anon6	file:
+VOTE	utilisateur.c	/^  VOTE,$/;"	e	enum:__anon6	file:
+NUMBV	utilisateur.c	/^  NUMBV,$/;"	e	enum:__anon6	file:
+LOGIN	utilisateur.c	/^  LOGIN,$/;"	e	enum:__anon6	file:
+PASS	utilisateur.c	/^  PASS,$/;"	e	enum:__anon6	file:
+HF	utilisateur.c	/^  HF,$/;"	e	enum:__anon6	file:
+COLUMNS	utilisateur.c	/^  COLUMNS,$/;"	e	enum:__anon6	file:
+ajouter_utilisateur	utilisateur.c	/^void ajouter_utilisateur(Utilisateur U)$/;"	f
+afficher_utilisateur	utilisateur.c	/^void afficher_utilisateur(GtkWidget *liste, char *nomF)$/;"	f
+modifier_utilisateur	utilisateur.c	/^void modifier_utilisateur(Utilisateur U)$/;"	f
+supprimer_utilisateur	utilisateur.c	/^void supprimer_utilisateur(Utilisateur U)$/;"	f
+chercher_utilisateur	utilisateur.c	/^void chercher_utilisateur(Utilisateur U, char text[100])$/;"	f
+login	utilisateur.c	/^Utilisateur login(char text1[100], char text2[100])$/;"	f
+nbElecteur	utilisateur.c	/^int nbElecteur(Utilisateur U, char *nomF)$/;"	f
+nbre_hom_fem	utilisateur.c	/^void nbre_hom_fem(Utilisateur U, char *nomF, int *nh, int *nf)$/;"	f
+vote_blanc	utilisateur.c	/^void vote_blanc(Utilisateur U, int *nb)$/;"	f
+affstat	utilisateur.c	/^void affstat(char val[], char aff1[])$/;"	f
+affstat1	utilisateur.c	/^void affstat1(char val[], char aff2[])$/;"	f
+affstat2	utilisateur.c	/^void affstat2(char val[], char aff3[])$/;"	f
+UTILISATEUR_H_INCLUDED	utilisateur.h	2;"	d
+jour	utilisateur.h	/^    int jour;$/;"	m	struct:__anon7
+mois	utilisateur.h	/^    int mois;$/;"	m	struct:__anon7
+annee	utilisateur.h	/^    int annee;$/;"	m	struct:__anon7
+Date1	utilisateur.h	/^} Date1;$/;"	t	typeref:struct:__anon7
+Utilisateur	utilisateur.h	/^typedef struct Utilisateur$/;"	s
+nom	utilisateur.h	/^    char nom[100];$/;"	m	struct:Utilisateur
+prenom	utilisateur.h	/^    char prenom[100];$/;"	m	struct:Utilisateur
+cin	utilisateur.h	/^    char cin[100];$/;"	m	struct:Utilisateur
+DDN	utilisateur.h	/^    Date1 DDN;$/;"	m	struct:Utilisateur
+role	utilisateur.h	/^    char role[100];$/;"	m	struct:Utilisateur
+vote	utilisateur.h	/^    char vote[100];$/;"	m	struct:Utilisateur
+numBV	utilisateur.h	/^    char numBV[100];$/;"	m	struct:Utilisateur
+login	utilisateur.h	/^    char login[100];$/;"	m	struct:Utilisateur
+pass	utilisateur.h	/^    char pass[100];$/;"	m	struct:Utilisateur
+hf	utilisateur.h	/^    char hf[100];$/;"	m	struct:Utilisateur
+Utilisateur	utilisateur.h	/^} Utilisateur;$/;"	t	typeref:struct:Utilisateur
+nomF	utilisateur.h	/^char *nomF;$/;"	v
+ajouter_utilisateur	utilisateur.h	/^void ajouter_utilisateur(Utilisateur U);$/;"	p
+afficher_utilisateur	utilisateur.h	/^void afficher_utilisateur(GtkWidget *liste, char *nomF);$/;"	p
+modifier_utilisateur	utilisateur.h	/^void modifier_utilisateur(Utilisateur U);$/;"	p
+supprimer_utilisateur	utilisateur.h	/^void supprimer_utilisateur(Utilisateur U);$/;"	p
+chercher_utilisateur	utilisateur.h	/^void chercher_utilisateur(Utilisateur U, char text[100]);$/;"	p
+nbElecteur	utilisateur.h	/^int nbElecteur(Utilisateur U, char *nomF);$/;"	p
+nbre_hom_fem	utilisateur.h	/^void nbre_hom_fem(Utilisateur U, char *nomF, int *nh, int *nf);$/;"	p
+affstat	utilisateur.h	/^void affstat(char val[100], char aff1[300]);$/;"	p
+affstat1	utilisateur.h	/^void affstat1(char val[100], char aff2[300]);$/;"	p
+vote_blanc	utilisateur.h	/^void vote_blanc(Utilisateur U, int *nb);$/;"	p
+affstat2	utilisateur.h	/^void affstat2(char val[100], char aff3[300]);$/;"	p
+login	utilisateur.h	/^Utilisateur login(char text1[100], char text2[100]);$/;"	p
+am__is_gnu_make	Makefile	/^am__is_gnu_make = { \\$/;"	m
+am__make_running_with_option	Makefile	/^am__make_running_with_option = \\$/;"	m
+am__make_dryrun	Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/projetc$/;"	m
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/projetc$/;"	m
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/projetc$/;"	m
+pkglibexecdir	Makefile	/^pkglibexecdir = $(libexecdir)\/projetc$/;"	m
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m
+bin_PROGRAMS	Makefile	/^bin_PROGRAMS = projetc$(EXEEXT)$/;"	m
+subdir	Makefile	/^subdir = src$/;"	m
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.in$/;"	m
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+DIST_COMMON	Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.am $(am__DIST_COMMON)$/;"	m
+mkinstalldirs	Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+CONFIG_HEADER	Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+am__installdirs	Makefile	/^am__installdirs = "$(DESTDIR)$(bindir)"$/;"	m
+PROGRAMS	Makefile	/^PROGRAMS = $(bin_PROGRAMS)$/;"	m
+am_projetc_OBJECTS	Makefile	/^am_projetc_OBJECTS = main.$(OBJEXT) support.$(OBJEXT) \\$/;"	m
+projetc_OBJECTS	Makefile	/^projetc_OBJECTS = $(am_projetc_OBJECTS)$/;"	m
+am__DEPENDENCIES_1	Makefile	/^am__DEPENDENCIES_1 =$/;"	m
+projetc_DEPENDENCIES	Makefile	/^projetc_DEPENDENCIES = $(am__DEPENDENCIES_1)$/;"	m
+AM_V_P	Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+am__v_P_	Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_0	Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_1	Makefile	/^am__v_P_1 = :$/;"	m
+AM_V_GEN	Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+am__v_GEN_	Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_0	Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_1	Makefile	/^am__v_GEN_1 = $/;"	m
+AM_V_at	Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+am__v_at_	Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_0	Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_1	Makefile	/^am__v_at_1 = $/;"	m
+DEFAULT_INCLUDES	Makefile	/^DEFAULT_INCLUDES = -I. -I$(top_builddir)$/;"	m
+depcomp	Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m
+am__depfiles_maybe	Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__mv	Makefile	/^am__mv = mv -f$/;"	m
+COMPILE	Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+AM_V_CC	Makefile	/^AM_V_CC = $(am__v_CC_$(V))$/;"	m
+am__v_CC_	Makefile	/^am__v_CC_ = $(am__v_CC_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CC_0	Makefile	/^am__v_CC_0 = @echo "  CC      " $@;$/;"	m
+am__v_CC_1	Makefile	/^am__v_CC_1 = $/;"	m
+CCLD	Makefile	/^CCLD = $(CC)$/;"	m
+LINK	Makefile	/^LINK = $(CCLD) $(AM_CFLAGS) $(CFLAGS) $(AM_LDFLAGS) $(LDFLAGS) -o $@$/;"	m
+AM_V_CCLD	Makefile	/^AM_V_CCLD = $(am__v_CCLD_$(V))$/;"	m
+am__v_CCLD_	Makefile	/^am__v_CCLD_ = $(am__v_CCLD_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CCLD_0	Makefile	/^am__v_CCLD_0 = @echo "  CCLD    " $@;$/;"	m
+am__v_CCLD_1	Makefile	/^am__v_CCLD_1 = $/;"	m
+SOURCES	Makefile	/^SOURCES = $(projetc_SOURCES)$/;"	m
+DIST_SOURCES	Makefile	/^DIST_SOURCES = $(projetc_SOURCES)$/;"	m
+am__can_run_installinfo	Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__tagged_files	Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)$/;"	m
+am__uniquify_input	Makefile	/^am__uniquify_input = $(AWK) '\\$/;"	m
+am__define_uniq_tagged_files	Makefile	/^am__define_uniq_tagged_files = \\$/;"	m
+ETAGS	Makefile	/^ETAGS = etags$/;"	m
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m
+am__DIST_COMMON	Makefile	/^am__DIST_COMMON = $(srcdir)\/Makefile.in $(top_srcdir)\/depcomp$/;"	m
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} "\/home\/amiin\/Desktop\/Integration finale\/V6\/missing" aclocal-1.15$/;"	m
+AMTAR	Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AM_DEFAULT_VERBOSITY	Makefile	/^AM_DEFAULT_VERBOSITY = 1$/;"	m
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} "\/home\/amiin\/Desktop\/Integration finale\/V6\/missing" autoconf$/;"	m
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} "\/home\/amiin\/Desktop\/Integration finale\/V6\/missing" autoheader$/;"	m
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} "\/home\/amiin\/Desktop\/Integration finale\/V6\/missing" automake-1.15$/;"	m
+AWK	Makefile	/^AWK = mawk$/;"	m
+CATALOGS	Makefile	/^CATALOGS = $/;"	m
+CATOBJEXT	Makefile	/^CATOBJEXT = .gmo$/;"	m
+CC	Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -g -O2$/;"	m
+CPP	Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = $/;"	m
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m
+DATADIRNAME	Makefile	/^DATADIRNAME = share$/;"	m
+DEFS	Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m
+ECHO_C	Makefile	/^ECHO_C = $/;"	m
+ECHO_N	Makefile	/^ECHO_N = -n$/;"	m
+ECHO_T	Makefile	/^ECHO_T = $/;"	m
+EGREP	Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EXEEXT	Makefile	/^EXEEXT = $/;"	m
+GETTEXT_PACKAGE	Makefile	/^GETTEXT_PACKAGE = projetc$/;"	m
+GMOFILES	Makefile	/^GMOFILES = $/;"	m
+GMSGFMT	Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m
+GREP	Makefile	/^GREP = \/bin\/grep$/;"	m
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INSTOBJEXT	Makefile	/^INSTOBJEXT = .mo$/;"	m
+INTLLIBS	Makefile	/^INTLLIBS = $/;"	m
+INTL_MACOSX_LIBS	Makefile	/^INTL_MACOSX_LIBS = $/;"	m
+LDFLAGS	Makefile	/^LDFLAGS = $/;"	m
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m
+LIBS	Makefile	/^LIBS = $/;"	m
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m
+MAINT	Makefile	/^MAINT = $/;"	m
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} "\/home\/amiin\/Desktop\/Integration finale\/V6\/missing" makeinfo$/;"	m
+MKDIR_P	Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKINSTALLDIRS	Makefile	/^MKINSTALLDIRS = .\/mkinstalldirs$/;"	m
+MSGFMT	Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT_OPTS	Makefile	/^MSGFMT_OPTS = -c$/;"	m
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m
+PACKAGE	Makefile	/^PACKAGE = projetc$/;"	m
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_CFLAGS	Makefile	/^PACKAGE_CFLAGS = -pthread -I\/usr\/include\/gtk-2.0 -I\/usr\/lib\/x86_64-linux-gnu\/gtk-2.0\/include -I\/usr\/include\/gio-unix-2.0\/ -I\/usr\/include\/cairo -I\/usr\/include\/pango-1.0 -I\/usr\/include\/atk-1.0 -I\/usr\/include\/cairo -I\/usr\/include\/pixman-1 -I\/usr\/include\/gdk-pixbuf-2.0 -I\/usr\/include\/libpng16 -I\/usr\/include\/pango-1.0 -I\/usr\/include\/harfbuzz -I\/usr\/include\/pango-1.0 -I\/usr\/include\/glib-2.0 -I\/usr\/lib\/x86_64-linux-gnu\/glib-2.0\/include -I\/usr\/include\/freetype2 -I\/usr\/include\/libpng16 -I\/usr\/include\/freetype2 -I\/usr\/include\/libpng16$/;"	m
+PACKAGE_LIBS	Makefile	/^PACKAGE_LIBS = -lgtk-x11-2.0 -lgdk-x11-2.0 -lpangocairo-1.0 -latk-1.0 -lcairo -lgdk_pixbuf-2.0 -lgio-2.0 -lpangoft2-1.0 -lpango-1.0 -lgobject-2.0 -lglib-2.0 -lfontconfig -lfreetype$/;"	m
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = $/;"	m
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = $/;"	m
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = $/;"	m
+PACKAGE_URL	Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = $/;"	m
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m
+PKG_CONFIG	Makefile	/^PKG_CONFIG = \/usr\/bin\/pkg-config$/;"	m
+PKG_CONFIG_LIBDIR	Makefile	/^PKG_CONFIG_LIBDIR = $/;"	m
+PKG_CONFIG_PATH	Makefile	/^PKG_CONFIG_PATH = $/;"	m
+POFILES	Makefile	/^POFILES = $/;"	m
+POSUB	Makefile	/^POSUB = po$/;"	m
+PO_IN_DATADIR_FALSE	Makefile	/^PO_IN_DATADIR_FALSE = $/;"	m
+PO_IN_DATADIR_TRUE	Makefile	/^PO_IN_DATADIR_TRUE = $/;"	m
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m
+SHELL	Makefile	/^SHELL = \/bin\/bash$/;"	m
+STRIP	Makefile	/^STRIP = $/;"	m
+USE_NLS	Makefile	/^USE_NLS = yes$/;"	m
+VERSION	Makefile	/^VERSION = 0.1$/;"	m
+XGETTEXT	Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+abs_builddir	Makefile	/^abs_builddir = \/home\/amiin\/Desktop\/Integration finale\/V6\/src$/;"	m
+abs_srcdir	Makefile	/^abs_srcdir = \/home\/amiin\/Desktop\/Integration finale\/V6\/src$/;"	m
+abs_top_builddir	Makefile	/^abs_top_builddir = \/home\/amiin\/Desktop\/Integration finale\/V6$/;"	m
+abs_top_srcdir	Makefile	/^abs_top_srcdir = \/home\/amiin\/Desktop\/Integration finale\/V6$/;"	m
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m
+am__include	Makefile	/^am__include = include$/;"	m
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m
+am__quote	Makefile	/^am__quote = $/;"	m
+am__tar	Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__untar	Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+build_alias	Makefile	/^build_alias = $/;"	m
+builddir	Makefile	/^builddir = .$/;"	m
+datadir	Makefile	/^datadir = ${datarootdir}$/;"	m
+datarootdir	Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+docdir	Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE}$/;"	m
+dvidir	Makefile	/^dvidir = ${docdir}$/;"	m
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/;"	m
+host_alias	Makefile	/^host_alias = $/;"	m
+htmldir	Makefile	/^htmldir = ${docdir}$/;"	m
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m
+infodir	Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+install_sh	Makefile	/^install_sh = ${SHELL} '\/home\/amiin\/Desktop\/Integration finale\/V6\/install-sh'$/;"	m
+libdir	Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+localedir	Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+mandir	Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mkdir_p	Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m
+pdfdir	Makefile	/^pdfdir = ${docdir}$/;"	m
+prefix	Makefile	/^prefix = \/usr\/local$/;"	m
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m
+psdir	Makefile	/^psdir = ${docdir}$/;"	m
+runstatedir	Makefile	/^runstatedir = ${localstatedir}\/run$/;"	m
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+srcdir	Makefile	/^srcdir = .$/;"	m
+sysconfdir	Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+target_alias	Makefile	/^target_alias = $/;"	m
+top_build_prefix	Makefile	/^top_build_prefix = ..\/$/;"	m
+top_builddir	Makefile	/^top_builddir = ..$/;"	m
+top_srcdir	Makefile	/^top_srcdir = ..$/;"	m
+INCLUDES	Makefile	/^INCLUDES = \\$/;"	m
+projetc_SOURCES	Makefile	/^projetc_SOURCES = \\$/;"	m
+projetc_LDADD	Makefile	/^projetc_LDADD = -lgtk-x11-2.0 -lgdk-x11-2.0 -lpangocairo-1.0 -latk-1.0 -lcairo -lgdk_pixbuf-2.0 -lgio-2.0 -lpangoft2-1.0 -lpango-1.0 -lgobject-2.0 -lglib-2.0 -lfontconfig -lfreetype $(INTLLIBS)$/;"	m
