@@ -1,4 +1,4 @@
-# Projet-Programmation-C
+# Application de gestion des élections municipales
 
 --Pour connecter a l'espace adéquat il faut executer le programme dans le dossier "src"
 --Les utilisateurs sont stockés dans le fichier texte "ajt_ut.txt" situé dans "src"
