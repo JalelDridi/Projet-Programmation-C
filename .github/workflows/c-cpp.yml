@@ -19,7 +19,7 @@ jobs:
 
     - name: Build and install
       run: |
-        cd interface
+        cd Interface
         cmake .
         make
         sudo make install
