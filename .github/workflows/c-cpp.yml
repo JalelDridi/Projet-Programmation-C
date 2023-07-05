@@ -13,14 +13,13 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: Set up CMake
-      uses: actions/setup-cmake@v2
-      with:
-        cmake-version: '3.20'
+
+    - name: Install build dependencies
+      run: sudo apt-get install -y build-essential cmake
 
     - name: Build and install
       run: |
-        cd Interface  
-        ./configure
+        cd interface
+        cmake .
         make
         sudo make install
